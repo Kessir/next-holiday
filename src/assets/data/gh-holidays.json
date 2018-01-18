@@ -1,0 +1,7 @@
+[
+    { "name": "Independence Day", "description": "", "date":"06-03-2018"},
+    { "name": "Good Friday", "description": "", "date":"30-03-2018"},
+    { "name": "Christmas Day", "description": "", "date":"25-12-2018"},
+    { "name": "Boxing Day", "description": "", "date":"26-12-2018"},
+    { "name": "New Year", "description": "", "date":"01-01-2019"}
+]
